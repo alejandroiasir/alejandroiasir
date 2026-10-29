@@ -36,6 +36,16 @@ Aplicación backend en **Python** con el framework **Haystack** para orquestar p
 
 🔗 Repositorio: [agricultural-virtual-assistant](https://github.com/alejandroiasir/agricultural-virtual-assistant)
 
+### 📚 RAG personal sobre documentos locales
+
+Aplicación en **Python** con el framework **Haystack** para responder preguntas sobre tus propios documentos, con citas a los fragmentos de origen. Arquitectura **RAG**. Todo se ejecuta en tu equipo: **Qdrant en modo local y Ollama para los modelos**.
+
+- Indexación de PDF, DOCX, TXT, MD y HTML con búsqueda semántica sobre una base de datos vectorial.
+- Respuestas con citas al fragmento usado, y abstención cuando no hay evidencia en los documentos.
+- Interfaz web local para subir documentos y hacer preguntas, y evaluación contra un corpus de preguntas con respuesta conocida.
+
+🔗 Repositorio: [personal-rag](https://github.com/alejandroiasir/personal-rag)
+
 ### 🌐 Páginas web freelance
 Proyectos con **Node.js, React, CSS y Supabase**, con APIs REST, autenticación, almacenamiento y consultas SQL.
 
