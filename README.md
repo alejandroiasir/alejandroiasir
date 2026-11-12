@@ -27,6 +27,16 @@ Me interesa construir backends claros, bien probados y fáciles de mantener. Lle
 
 ## 📂 Proyectos destacados
 
+### 🖥️ Consulta Inteligente de Solicitudes con IA y MCP
+
+Aplicación desarrollada en Python con integración de IA generativa y MCP para consultar bases de datos MySQL mediante lenguaje natural.
+
+- Consultas en español con acceso de solo lectura a la base de datos mediante herramientas MCP.
+- Integración con Make para automatizar el envío de correos, el registro de solicitudes en Google Sheets y la generación de alertas de urgencia.
+- Interfaz interactiva para seleccionar y procesar solicitudes con un solo clic.
+
+🔗 Repositorio: [make-mcp-mysql-demo](https://github.com/alejandroiasir/make-mcp-mysql-demo)
+
 ### 🤖 Chatbot para Asistencia Virtual Agrícola
 Aplicación backend en **Python** con el framework **Haystack** para orquestar pipelines **RAG**.
 
