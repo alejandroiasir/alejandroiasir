@@ -17,10 +17,9 @@ Me interesa construir backends claros, bien probados y fáciles de mantener. Lle
 
 ### 🛠️ Tecnologías y herramientas
 
-**Backend y lenguajes:**
+**Lenguajes de programación:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -28,31 +27,44 @@ Me interesa construir backends claros, bien probados y fáciles de mantener. Lle
 **Frontend:**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Datos:**
+**Backend y frameworks:**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+
+**Bases de datos:**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector_Databases-6C3483?style=flat-square)
 
-**IA:**
+**Inteligencia Artificial:**
 
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
 ![Haystack](https://img.shields.io/badge/Haystack-00A98F?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6E56CF?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square)
 
-**Herramientas:**
+**Automatización y desarrollo:**
 
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Terminal](https://img.shields.io/badge/Terminal-241F31?style=flat-square&logo=windowsterminal&logoColor=white)
-![Testing](https://img.shields.io/badge/Unit_Testing-25A162?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS_Fundamentals-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Testing](https://img.shields.io/badge/Unit_Testing-25A162?style=flat-square)
+![SDD](https://img.shields.io/badge/Spec--Driven_Development-7952B3?style=flat-square)
+
 ---
 
 ## 📂 Proyectos destacados
